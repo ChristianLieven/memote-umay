@@ -10,4 +10,5 @@ Model Maintainer
 Contributors
 ------------
 
-None yet. Why not be the first?
+* Thiemo Zambanini <thiemo.zambanini@rwth-aachen.de>
+* Lars Mathias Blank <Lars.Blank@rwth-aachen.de>

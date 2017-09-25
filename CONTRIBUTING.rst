@@ -78,7 +78,7 @@ Ready to contribute? Here's how to set up `memote-umay` for local development.
 
 5. When you're done making changes, check that your changes pass the memote test suite::
 
-    $ memote memote-umay
+    $ memote report snapshot path/to/model.xml
 
 6. Commit your changes and push your branch to GitHub::
 
