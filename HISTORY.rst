@@ -5,6 +5,32 @@ History
 0.1.2 (2016-10-29)
 ------------------
 
+* Correct phospholipid synthesis pathways
+* Balance chitin synthesis
+* Balance some essential reactions
+* Remove reactions using generic metabolites such as "Carbocylates
+* Use respiratory chain balances from iMM904 model
+* Remove many non-metabolic kinase reactions involving phosphatidyl-inositol.
+* Remove generic nucleoside transport reactions
+* Remove biotin carrier biosynthesis and reaction cycle
+* Remove generic carbonyl-reductase and alcohol-oxidase
+* Remove non-metabolic histone methyl/ acetyl transferase reactions
+* Remove non-metabolic protein kinase reactions
+* Change ferredoxins' metabolite IDs to consensus definitions
+* Remove archeal lysine biosynthesis pathway
+* Remove non-metabolic deoxyhypusine biosynthesis
+* Replace all "ETF" metabolites with fad/fadh2 in the model
+* Remove citrate lyase bypass through 2 subreactions
+* Remove 3 subreactions of 2-oxoisovalerate dehydrogenase
+* Curate diacylglycerol transformations
+* Remove orphan metabolites (those disconnected from reactions)
+* Add Cyp3 - P450 monooxygenase UMAG_05074 reaction
+* Preliminary test of carbon sources U. maydis should and shouldn't be able to
+grow on
+
+0.1.2 (2016-10-29)
+------------------
+
 * Curate Ammonia assimilation such that GS/GOGAT and NADP-GDH are the only
 options as reported for U. maydis.
 * Move the glyoxylate shunt to the Mitochondrion since the Glyoxysome is not
