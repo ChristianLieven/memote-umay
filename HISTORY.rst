@@ -2,7 +2,7 @@
 History
 =======
 
-0.1.2 (2016-10-29)
+0.1.3 (2016-10-29)
 ------------------
 
 * Correct phospholipid synthesis pathways
