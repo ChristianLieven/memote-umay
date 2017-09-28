@@ -2,6 +2,11 @@
 History
 =======
 
+Next Release
+------------
+
+* Reformat data from growth_study and compare model's performance
+
 0.1.3 (2017-09-18)
 ------------------
 
